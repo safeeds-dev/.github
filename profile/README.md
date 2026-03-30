@@ -1,5 +1,5 @@
 ## Safeeds technologies
-<img width="800" height="900" alt="Designer" src="https://github.com/user-attachments/assets/90f1c773-dd04-4560-b28f-6b24499e7ef4" />
+<img width="800" height="200" alt="Designer" src="https://github.com/user-attachments/assets/90f1c773-dd04-4560-b28f-6b24499e7ef4" />
 
 
 <!--
