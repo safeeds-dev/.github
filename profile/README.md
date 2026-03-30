@@ -1,6 +1,5 @@
 ## Safeeds technologies
 <img width="400" height="500" alt="Designer" src="https://github.com/user-attachments/assets/90f1c773-dd04-4560-b28f-6b24499e7ef4" />
-Repository for implementing new systems projects at Safeeds
 
 <!--
 
