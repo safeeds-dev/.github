@@ -11,3 +11,13 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Definições para melhor classificação
+safeeds-[tipo]-[escopo]
+
+Padrão de branches (MUITO importante)
+recomendação para uso nos repo
+| `feature/*` | novas features |
+| `fix/*` | correções |
+| `hotfix/*` | urgente |
+
