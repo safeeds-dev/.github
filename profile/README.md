@@ -17,6 +17,7 @@ safeeds-[tipo]-[escopo]
 
 Padrão de branches (MUITO importante)
 recomendação para uso nos repo
+
 | `feature/*` | novas features |
 | `fix/*` | correções |
 | `hotfix/*` | urgente |
