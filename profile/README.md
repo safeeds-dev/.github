@@ -16,7 +16,7 @@ Definições para melhor classificação
 safeeds-[tipo]-[escopo]
 
 Padrão de branches (MUITO importante)
-recomendação para uso nos repo
+recomendação para uso nos repositórios
 
 | `feature/*` | novas features |
 | `fix/*` | correções |
