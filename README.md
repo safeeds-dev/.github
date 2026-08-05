@@ -1,2 +1,2 @@
 # .github
-Safeeds Solutions Technologies
+Safeeds
